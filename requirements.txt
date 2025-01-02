@@ -1,0 +1,4 @@
+PyMuPDf
+Pillow
+google.generativeai
+dotenv
