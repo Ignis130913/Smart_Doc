@@ -25,4 +25,4 @@ class Config:
         Input image: [Attach the image of the financial document]
     """
     
-    API_KEY = "AIzaSyBilZJZzgzBvIeIXxmozwjBjaWPJjHlCd0"
+    API_KEY = "AIzaSyCM0bRwKpTcXXrIWYYojil92uj7dt3_yM0"

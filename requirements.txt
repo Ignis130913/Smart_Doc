@@ -1,4 +1,5 @@
 PyMuPDf
 Pillow
 google.generativeai
-dotenv
+pandas
+openpyxl
